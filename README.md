@@ -1,7 +1,7 @@
-# AstrodynamicsIO
+# AstroDynIO
 
-[![Build Status](https://travis-ci.org/helgee/AstrodynamicsIO.jl.svg?branch=master)](https://travis-ci.org/helgee/AstrodynamicsIO.jl)
+[![Build Status](https://travis-ci.org/JuliaAstrodynamics/AstroDynIO.jl.svg?branch=master)](https://travis-ci.org/JuliaAstrodynamics/AstroDynIO.jl)
 
-[![Coverage Status](https://coveralls.io/repos/helgee/AstrodynamicsIO.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/helgee/AstrodynamicsIO.jl?branch=master)
+[![Coverage Status](https://coveralls.io/repos/JuliaAstrodynamics/AstroDynIO.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/JuliaAstrodynamics/AstroDynIO.jl?branch=master)
 
-[![codecov.io](http://codecov.io/github/helgee/AstrodynamicsIO.jl/coverage.svg?branch=master)](http://codecov.io/github/helgee/AstrodynamicsIO.jl?branch=master)
+[![codecov.io](http://codecov.io/github/JuliaAstrodynamics/AstroDynIO.jl/coverage.svg?branch=master)](http://codecov.io/github/JuliaAstrodynamics/AstroDynIO.jl?branch=master)

@@ -1,4 +1,4 @@
-using AstrodynamicsIO
+using AstroDynIO
 using Base.Test
 
 # write your own tests here

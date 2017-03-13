@@ -1,4 +1,4 @@
-module AstrodynamicsIO
+module AstroDynIO
 
 # package code goes here
 
