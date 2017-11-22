@@ -1,5 +1,5 @@
 module AstroDynIO
 
-# package code goes here
+include("odm.jl")
 
 end # module
